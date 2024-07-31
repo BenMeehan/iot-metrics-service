@@ -1,0 +1,8 @@
+InfluxDB:
+  URL: "http://localhost:8086"
+  Token: "my-token"
+  Org: "my-org"
+  Bucket: "metrics"
+
+NATS:
+  URL: "nats://localhost:4222"

@@ -1,0 +1,6 @@
+url: "nats://localhost:4222"
+user: "your-username"
+password: "your-password"
+caFile: "path/to/ca-cert.pem"
+certFile: "path/to/client-cert.pem"
+keyFile: "path/to/client-key.pem"
